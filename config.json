@@ -1,0 +1,8 @@
+{
+	"phone":"YOUR_FULL_INTERNATIONAL_NUMBER",
+	"api_id":"YOUR_API_ID",
+	"api_hash": "YOUR_API_HASH",
+	"password":"YOUR_PASSWORD",
+	"host":"127.0.0.1",
+	"port":"5000"
+}
